@@ -1,5 +1,5 @@
 gen/
 bin/
 out/
-platforms/
+platforms/*
 .idea/
